@@ -6,6 +6,7 @@ public class GitHubClass {
 
 		for(int i = 0; i < 15; i++) {
 			System.out.println(i);
+			// This is changes from repository
 		}
 	}
 
